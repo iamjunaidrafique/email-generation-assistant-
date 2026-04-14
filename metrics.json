@@ -1,0 +1,10 @@
+{
+  "Fact Recall Score": "Measures how many key facts are included",
+  "Tone Accuracy Score": "Measures alignment with requested tone",
+  "Clarity Score": "Measures readability and conciseness",
+  "average_scores": {
+    "fact": 0.875,
+    "tone": 0.85,
+    "clarity": 0.865
+  }
+}

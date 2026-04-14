@@ -1,0 +1,12 @@
+[
+  {
+    "intent": "Follow up after meeting",
+    "facts": ["Discussed timeline", "Waiting for feedback"],
+    "tone": "formal"
+  },
+  {
+    "intent": "Request for proposal details",
+    "facts": ["Need pricing", "Project scope"],
+    "tone": "professional"
+  }
+]
